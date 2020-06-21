@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  background: #8253d7;
+  position: relative;
+}
+
+header,
+a {
+  color: rgba(255, 255, 255, .8);
+}
+
+nav,
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  flex-direction;
+}
+
+nav li {
+  list-style: none;
+}
